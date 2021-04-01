@@ -1,0 +1,107 @@
+C:\Users\Naveen Perera\source\repos\application 2\application 2\bin\Debug\application 2.exe.config
+C:\Users\Naveen Perera\source\repos\application 2\application 2\bin\Debug\application 2.exe
+C:\Users\Naveen Perera\source\repos\application 2\application 2\bin\Debug\application 2.pdb
+C:\Users\Naveen Perera\source\repos\application 2\application 2\obj\Debug\application 2.csprojAssemblyReference.cache
+C:\Users\Naveen Perera\source\repos\application 2\application 2\obj\Debug\application_2.Properties.Resources.resources
+C:\Users\Naveen Perera\source\repos\application 2\application 2\obj\Debug\application 2.csproj.GenerateResource.cache
+C:\Users\Naveen Perera\source\repos\application 2\application 2\obj\Debug\application 2.csproj.CoreCompileInputs.cache
+C:\Users\Naveen Perera\source\repos\application 2\application 2\obj\Debug\application 2.exe
+C:\Users\Naveen Perera\source\repos\application 2\application 2\obj\Debug\application 2.pdb
+C:\Users\Naveen Perera\source\repos\application 2\application 2\obj\Debug\application_2.Form1.resources
+C:\Users\Naveen Perera\source\repos\application 2\application 2\obj\Debug\application_2.homepage.resources
+C:\Users\Naveen Perera\source\repos\application 2\application 2\obj\Debug\application_2.Forms.Form1Products.resources
+C:\Users\Naveen Perera\source\repos\application 2\application 2\obj\Debug\application_2.Forms.FormAddNewItems.resources
+C:\Users\Naveen Perera\source\repos\application 2\application 2\obj\Debug\application_2.Forms.FormQuotation.resources
+C:\Users\Naveen Perera\source\repos\application 2\application 2\obj\Debug\application_2.Forms.FormSettings.resources
+C:\Users\Naveen Perera\source\repos\application 2\application 2\obj\Debug\application_2.Forms.FormUpdateStokes.resources
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\application 2.exe.config
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\application 2.exe
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\application 2.pdb
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\obj\Debug\application 2.csprojAssemblyReference.cache
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\obj\Debug\application_2.Form1.resources
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\obj\Debug\application_2.Forms.Form1Products.resources
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\obj\Debug\application_2.Forms.FormAddNewItems.resources
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\obj\Debug\application_2.Forms.FormQuotation.resources
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\obj\Debug\application_2.Forms.FormSettings.resources
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\obj\Debug\application_2.homepage.resources
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\obj\Debug\application_2.Properties.Resources.resources
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\obj\Debug\application 2.csproj.GenerateResource.cache
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\obj\Debug\application 2.csproj.CoreCompileInputs.cache
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\obj\Debug\application 2.exe
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\obj\Debug\application 2.pdb
+F:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\application 2.exe.config
+F:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\application 2.exe
+F:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\application 2.pdb
+F:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\obj\Debug\application 2.csprojAssemblyReference.cache
+F:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\obj\Debug\application_2.Form1.resources
+F:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\obj\Debug\application_2.Forms.Form1Products.resources
+F:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\obj\Debug\application_2.Forms.FormAddNewItems.resources
+F:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\obj\Debug\application_2.Forms.FormQuotation.resources
+F:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\obj\Debug\application_2.Forms.FormSettings.resources
+F:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\obj\Debug\application_2.Forms.FormUpdateStokes.resources
+F:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\obj\Debug\application_2.homepage.resources
+F:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\obj\Debug\application_2.Properties.Resources.resources
+F:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\obj\Debug\application 2.csproj.GenerateResource.cache
+F:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\obj\Debug\application 2.csproj.CoreCompileInputs.cache
+F:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\obj\Debug\application 2.exe
+F:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\obj\Debug\application 2.pdb
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\obj\Debug\application_2.Forms.Form1Stock.resources
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\EnvDTE.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\stdole.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\Microsoft.MSXML.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SOFTTRONIX COMPUTER SOLUTIONS\application 2\obj\Debug\application 2.csproj.CopyComplete
